@@ -1,6 +1,8 @@
 # sd-redzones
 
-I created a basic red zone script. It provides players with weapons (Config.LoadoutItems), rewards them for eliminating other players within the designated zone, and then transports the deceased or injured individuals outside the zone to revive them. I put this together in around 30-40 minutes. If anyone is interested, I'm willing to keep working on it to make it better. Feel free to submit PR requests if you have ideas for improvement or open an issue in case you come across a bug that needs fixing.
+I created a basic red zone script that creates Blips and a red sphere zone around configurable areas. It provides players with weapons (Config.LoadoutItems) when entering the zone, rewards them for eliminating other players within the designated zone, and then transports the deceased or injured individuals outside the zone and revives them. 
+
+I put this together in around 30-40 minutes. If anyone is interested, I'm willing to keep working on it to make it better. Feel free to submit PR requests if you have ideas for improvement or open an issue in case you come across a bug that needs fixing.
 
 https://fivem.samueldev.shop / https://discord.gg/samueldev / https://docs.samueldev.shop
 
