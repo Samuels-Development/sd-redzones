@@ -1,6 +1,6 @@
 # sd-redzones
 
-A simple redzone script, that gives players weapons (Config.LoadoutItems), rewards them for killing other players within the marked zone and then teleports the dead/injured outside of the zone and revives them. I wrote this in 30-40 minutes, I'm happy to continue to improve upon it if anybody actually wants it, please create PR requests if you have stuff you'd like to improve and create an issue case you encounter a bug that needs addressing.
+I created a basic red zone script. It provides players with weapons (Config.LoadoutItems), rewards them for eliminating other players within the designated zone, and then transports the deceased or injured individuals outside the zone to revive them. I put this together in around 30-40 minutes. If anyone is interested, I'm willing to keep working on it to make it better. Feel free to submit PR requests if you have ideas for improvement or open an issue in case you come across a bug that needs fixing.
 
 https://fivem.samueldev.shop / https://discord.gg/samueldev / https://docs.samueldev.shop
 
