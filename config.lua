@@ -4,6 +4,9 @@ Config.Zones = {
     {
         coords = vector3(106.75, -1941.19, 20.8), radius = 100.0 -- Grove Street
     },
+    --[[ { -- Example of adding additional zones.
+        coords = vector3(500.75, -1941.19, 20.8), radius = 200.0 -- Grove Street
+    }, ]]
 }
 
 -- Define loadout items
